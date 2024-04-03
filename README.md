@@ -1,4 +1,4 @@
-Here is the list of PKGBUILDs for seismic inversion on my Archlinux
+Here is the list of PKGBUILDs for seismic inversion on my Archlinux. 
 Some pkgbuild files are from AUR or github. 
 These are either poorly maintained or are geophysics-related packages. 
 I forked them for preservation and reference.
