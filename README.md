@@ -1,6 +1,7 @@
+Here is the list of PKGBUILDs for seismic inversion on my Archlinux
 Some pkgbuild files are from AUR or github. 
 These are either poorly maintained or are geophysics-related packages. 
-I Have forked them for preservation and reference.
+I forked them for preservation and reference.
 - cuda-multiversion
 - intel-oneapi-hpckit (include oneapi-basekit)
 - madagascar
